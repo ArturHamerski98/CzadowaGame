@@ -1,0 +1,360 @@
+﻿  functions.cpp
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(9,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(10,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(11,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(12,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(13,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(14,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(15,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(16,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(17,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(18,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(20,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(21,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(22,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(23,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(24,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(25,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(26,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(27,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(28,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,3): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,3): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,7): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,7): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,11): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,27): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,31): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(29,39): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,9): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,25): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(32,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(33,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,9): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(34,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(35,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(36,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(37,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,9): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(38,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,25): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(39,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(40,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,5): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,5): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,9): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,25): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,33): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,37): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(41,41): warning C4309: 'initializing': truncation of constant value
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(239,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Artur\source\repos\CzadowaAlfa1.0\functions.cpp(267,10): warning C4566: character represented by universal-character-name '\u2015' cannot be represented in the current code page (1250)
+  CzadowaAlfa1.0.vcxproj -> C:\Users\Artur\source\repos\CzadowaAlfa1.0\x64\Debug\CzadowaAlfa1.0.exe
