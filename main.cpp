@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "functions.h"
 #include <iostream>
@@ -11,6 +11,7 @@ using namespace std;
 
 
 int main() {
+    system("Color 1C");
     mainMenu();
     return 0;
 }
