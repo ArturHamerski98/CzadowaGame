@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
+
 enum itemType
 {
     weapon = 0,
@@ -30,9 +31,8 @@ struct Player {
     Item onHero[3];
     Item equipment[10];
 };
-int mainMenu();
+
 void displayHelp();
-void startGame();
 Player createPlayer(Item items[]);
 void createItems(Item items[]);
 void printTable(char board[10][10]);
@@ -43,6 +43,7 @@ void dealDmg(struct Player& player, int dmg);
 int capacityCounter(struct Player& player);
 void inventory(struct Player& player, Item items[]);
 int isOverload(struct Player& player);
+void printGameOver();
 void sphinxRiddle(struct Player& player, Item items[]);
 void fightClubField(struct Player& player, Item items[]);
 void finalFightField(struct Player& player);
@@ -54,3 +55,6 @@ void secondRiddle(struct Player& player, Item items[]);
 void storyManagement(struct Player& player, Item items[], int xposition, int yposition);
 void shiningFightField(struct Player& player);
 void isTrap(struct Player& player);
+void startGame();
+void pressAnythingToContinous();
+int mainMenu();
